@@ -16,7 +16,9 @@ DESCRIPTION : The deliverables for this project include a redesigned ride select
 
 OUTPUT : 
 
-ORIGINAL UBER APP INTERFACE : 
+ORIGINAL UBER APP INTERFACE : ![Image](https://github.com/user-attachments/assets/d823b5f9-0355-4f23-8f5f-3fe9bc471fbe)
+
+REDESIGNED INTERFACE : 
 
 ![Image](https://github.com/user-attachments/assets/85244275-58a8-4649-b1b3-0ec77a141d26)
 
